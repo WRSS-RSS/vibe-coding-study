@@ -34,3 +34,7 @@
   - [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn)
   - [FidStyle/Vibe-Coding-Practical-Handbook](https://github.com/FidStyle/Vibe-Coding-Practical-Handbook)
   - [rizukirr/vibekit](https://github.com/rizukirr/vibekit)
+
+## W1 学习笔记
+- Git 基础：init, status, add, commit, log, remote, push
+- 仓库已推送到 GitHub: https://github.com/WRSS-RSS/vibe-coding-study
