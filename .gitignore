@@ -1,0 +1,10 @@
+# Claude Code 临时文件
+*.tmp.*
+CLAUDE.md.tmp.*
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 压缩参考文件
+*.zip
